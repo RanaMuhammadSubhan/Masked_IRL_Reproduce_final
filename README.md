@@ -91,7 +91,7 @@ python scripts/run_corruption.py --output work/core --gpus 0
 python scripts/run_extensions.py --base-root work/core --output work/extensions --gpus 0
 ```
 
-## Important limitationss
+## Important limitations
 
 - The original simulation trajectories and environment/resource package were unavailable, so the paper's exact numerical simulation result cannot be claimed.
 - The study uses one replacement dataset and three training seeds.
