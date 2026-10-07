@@ -1,0 +1,14 @@
+{
+  "group_count": 491,
+  "group_sizes_min_max": [
+    1,
+    5
+  ],
+  "endpoint_spread_quantiles_m": {
+    "min": 0.0,
+    "median": 0.0,
+    "p95": 0.0,
+    "max": 0.0
+  },
+  "note": "Measures realized Cartesian endpoint spread within each start-goal comparison group."
+}

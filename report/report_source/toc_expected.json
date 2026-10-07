@@ -1,0 +1,132 @@
+[
+  [
+    "1 Assignment objective",
+    4,
+    "sec0"
+  ],
+  [
+    "2 Paper overview",
+    4,
+    "sec1"
+  ],
+  [
+    "3 Original repository audit",
+    5,
+    "sec2"
+  ],
+  [
+    "4 Reproduction strategy",
+    5,
+    "sec3"
+  ],
+  [
+    "5 Controlled replacement simulation",
+    6,
+    "sec4"
+  ],
+  [
+    "6 Released-code V2",
+    7,
+    "sec5"
+  ],
+  [
+    "7 Paper versus released code",
+    7,
+    "sec6"
+  ],
+  [
+    "8 V3 implementation",
+    8,
+    "sec7"
+  ],
+  [
+    "9 Experimental protocol",
+    10,
+    "sec8"
+  ],
+  [
+    "10 Main V3 results",
+    11,
+    "sec9"
+  ],
+  [
+    "11 Adaptation and strict zero-shot",
+    12,
+    "sec10"
+  ],
+  [
+    "12 Author-saved LLM masks",
+    13,
+    "sec11"
+  ],
+  [
+    "13 Robustness to mask errors",
+    14,
+    "sec12"
+  ],
+  [
+    "14 Lambda sensitivity",
+    15,
+    "sec13"
+  ],
+  [
+    "15 Proposed uncertainty-aware extension",
+    16,
+    "sec14"
+  ],
+  [
+    "16 What we learned",
+    18,
+    "sec15"
+  ],
+  [
+    "17 Problems encountered and solutions",
+    19,
+    "sec16"
+  ],
+  [
+    "18 Limitations",
+    20,
+    "sec17"
+  ],
+  [
+    "19 Prioritized future work",
+    20,
+    "sec18"
+  ],
+  [
+    "20 Conclusion",
+    21,
+    "sec19"
+  ],
+  [
+    "Appendix A Environment",
+    22,
+    "sec20"
+  ],
+  [
+    "Appendix B Run registry",
+    22,
+    "sec21"
+  ],
+  [
+    "Appendix C Exact seeds",
+    22,
+    "sec22"
+  ],
+  [
+    "Appendix D Important hashes",
+    23,
+    "sec23"
+  ],
+  [
+    "Appendix E Reproduction commands",
+    23,
+    "sec24"
+  ],
+  [
+    "Appendix F Package structure",
+    23,
+    "sec25"
+  ]
+]

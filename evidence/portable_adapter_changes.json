@@ -1,0 +1,26 @@
+[
+  {
+    "path": "code/reproduction/train_v3.py",
+    "original_sha256": "4b4a42b8335e1b12f31615ea1afe3283173e2cdb44bfe6c8232e1ebc5119e8e8",
+    "portable_sha256": "064716edb45d5a5eaa6f2353e86ee1559590935cff0bda0b4d2cdb457c722606",
+    "purpose": "Cache portability or path-separator normalization; no learner retrained"
+  },
+  {
+    "path": "code/reproduction/verify_v3.py",
+    "original_sha256": "a2dabde1d05b25c18356fa2f52482377994b89ef7b1e248be1c3a0ce4c2b1182",
+    "portable_sha256": "9670c186bddfafcb2f671b8fe4853d8a0811593542c992934d3b9accda60bd6a",
+    "purpose": "Cache portability or path-separator normalization; no learner retrained"
+  },
+  {
+    "path": "code/extensions/train_extension.py",
+    "original_sha256": "9fc2794ee798b70a88e08b4f8b98dd91a3a1ca1c5c6761c96982191de82ae509",
+    "portable_sha256": "ff62b3b0b7027f0e3c9dc58cc658d76bfeed99934387ac7eeb121fe95c910d47",
+    "purpose": "Cache portability or path-separator normalization; no learner retrained"
+  },
+  {
+    "path": "code/extensions/verify_extension.py",
+    "original_sha256": "5524a3e870b5733569cc66c04dd829b7c5edb825fdf20ca9ab6056a5b625d15c",
+    "portable_sha256": "60d1fdc662e9a97584d0e4cdb533dd2781cf09e83b6e53be8c9445e50f6ce2db",
+    "purpose": "Cache portability or path-separator normalization; no learner retrained"
+  }
+]

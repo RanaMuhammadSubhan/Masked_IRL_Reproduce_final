@@ -1,0 +1,27 @@
+﻿{
+    "inspected_pages":  [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11
+                        ],
+    "render_notes":  "Poppler emitted optional Symbol/ArialUnicode font warnings; actual report text and figures rendered correctly",
+    "pages":  11,
+    "checked":  "2026-10-07T16:16:23.9204628+09:00",
+    "report_sha256":  "80ceb5bb4763b8bbefc62b707791b4d6a6bedc2a216c0238f07adf3ec7ae492a",
+    "checks":  [
+                   "All 11 rendered pages visually inspected",
+                   "Readable tables, four figures, headers, footers and page numbers",
+                   "No overlapping or clipped content or missing glyphs",
+                   "Page 7 seed wording corrected and re-inspected; all other final rendered pages byte-identical to inspected first render",
+                   "Page 11 heading additionally inspected at 200 dpi"
+               ],
+    "status":  "PASS"
+}

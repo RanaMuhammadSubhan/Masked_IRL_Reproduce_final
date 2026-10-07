@@ -1,0 +1,28 @@
+{
+  "status": "PASS_NUMERIC_KINEMATIC_CHECKS",
+  "count": 2216,
+  "shape": [
+    2216,
+    21,
+    121
+  ],
+  "raw_features": [
+    2216,
+    5
+  ],
+  "model_states": [
+    2216,
+    21,
+    19
+  ],
+  "rotation_orthogonality_error": 1.5543122344752192e-15,
+  "exact_duplicates": 0,
+  "forward_kinematics_checked": true,
+  "trajectories_outside_joint_limits": 0,
+  "trajectories_with_environment_penetration": 784,
+  "strict_endpoints": true,
+  "collision_subdivisions": 4,
+  "collision_note": "Raw candidate diagnostics; constrained mode excludes these violations from combined arrays. Waypoint environment screen only, no swept-volume/dynamics/self-collision guarantee.",
+  "table_state_note": "Author state extractor retains hardcoded -0.65, while table semantic cost uses stand height +0.65",
+  "runtime_seconds": 135.09408199996687
+}

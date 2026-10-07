@@ -1,0 +1,1 @@
+PyTorch 2.5.0+cu124; CUDA runtime 12.4; original execution on two NVIDIA RTX 3080 GPUs.

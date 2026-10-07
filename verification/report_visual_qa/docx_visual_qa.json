@@ -1,0 +1,135 @@
+{
+  "status": "PASS",
+  "pages": 23,
+  "main_pages_including_front_matter": 21,
+  "appendix_pages": 2,
+  "inspected_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "tables": 15,
+  "figures": 4,
+  "native_math_equations": 8,
+  "toc_entries": 26,
+  "toc_page_numbers_verified": true,
+  "title_border_removed": true,
+  "visual_review": "All pages inspected as rendered PNGs; no blank page, clipped content, overflow, orphaned appendix line or displaced caption remains.",
+  "renderer": "Documents skill render_docx.py; task-local LibreOffice 26.2.6.3; bundled Poppler",
+  "docx_sha256": "f7e886bc09a8009555e3afc80bfe8bd76597977cbfd9c558b415019645ff6958",
+  "preview_pdf_sha256": "e5b40cedc84c0c65299423c934694f82b678568ca5454e53538e6b632c04de02",
+  "rendered_pages": [
+    {
+      "page": 1,
+      "sha256": "40bb249683659d08240df491c10cc5d5a6023832bf544cd9585308f8f41f8cd7"
+    },
+    {
+      "page": 2,
+      "sha256": "2c782759f85ea06be63026e74f77c1a6be7ce6578e53d8211d894509a2a41468"
+    },
+    {
+      "page": 3,
+      "sha256": "5b770b336490f5b09d0fe48c0c205dbfdff667918ef2b4fa006bc6a2f986fd71"
+    },
+    {
+      "page": 4,
+      "sha256": "d274a318d3c55f1d32be47122c35bd414ea932fb338462c17ebe216526c39094"
+    },
+    {
+      "page": 5,
+      "sha256": "87df76792ec6a5f92cbb888949cbb1484426c641dc70a49d4db629b67172e63f"
+    },
+    {
+      "page": 6,
+      "sha256": "fd7f50304d26b0ac87582d83ef5ec71232010269b30085d9a5d71a2954100b66"
+    },
+    {
+      "page": 7,
+      "sha256": "46227c8a3fd5072c9e3f78b2179f5f44634d4db0552499f0fe07bc9b8a9b6288"
+    },
+    {
+      "page": 8,
+      "sha256": "20bcc38161f836cfc10219916feecdbc72a5e91b0541a9c2c0e3ea03c7fbbecc"
+    },
+    {
+      "page": 9,
+      "sha256": "8570d8cb43f3770304dd0d33c107392969645790c22d7ddfbe10777196244c08"
+    },
+    {
+      "page": 10,
+      "sha256": "067232632f2caef78856202fc46e16305c1e2917a6dd0ad0eb607031195b692a"
+    },
+    {
+      "page": 11,
+      "sha256": "524f931a7e56e1135b210c1d32cc81656eef17b3d47b37f14e24f0487e6ba350"
+    },
+    {
+      "page": 12,
+      "sha256": "ce9ee395301e619e256ef289e4480f31b879d55cde63a9bf4edeb7c3b9e4ec94"
+    },
+    {
+      "page": 13,
+      "sha256": "06bcbd852e8bdd6a8a776239c2a4dcbfac22e551c62495130cfa2b22bdbd0199"
+    },
+    {
+      "page": 14,
+      "sha256": "e9ae2ca676def6411cb5600035c7fe406c32c03e5705dc8b3e21fee939fcffcc"
+    },
+    {
+      "page": 15,
+      "sha256": "aa179b5735ad0b3da0260f84f9b2065180ca177291909b06efd07c313d9ce082"
+    },
+    {
+      "page": 16,
+      "sha256": "b359a41144c02b66d1f2b3ea7810c5599515a356d7c6ddf9744474c181f4950a"
+    },
+    {
+      "page": 17,
+      "sha256": "dcc0519a91cac8bf266fea4e5e61539bea82d440d38581a934270a5245f74a09"
+    },
+    {
+      "page": 18,
+      "sha256": "4389322a7cce3b4aa3626023fbaaeedb141d72aa33c88e373d142c3e1b2ef263"
+    },
+    {
+      "page": 19,
+      "sha256": "57f4b1b4662b2115c81f594ce167ab750aa62f1b09aa18f5f8bbcb1e7594f7e0"
+    },
+    {
+      "page": 20,
+      "sha256": "e5d1d30cabb17699d8d8daf9e311ddf82c5babbc8588246474186b5eb085ef50"
+    },
+    {
+      "page": 21,
+      "sha256": "d357b1d9eabab6f215a5e67a372a49eec02eb56727d1a397998a4fbaa990d83b"
+    },
+    {
+      "page": 22,
+      "sha256": "52eb123f3c5772762c402740fdaca16053ce99526571bd97da6d9430b7b1ea5f"
+    },
+    {
+      "page": 23,
+      "sha256": "21e6702151db2e333b3285cc63779578dffca9e86aec67621e33c0fa5f9b73fd"
+    }
+  ]
+}

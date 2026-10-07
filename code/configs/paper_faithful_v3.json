@@ -1,0 +1,23 @@
+{
+  "description": "Index only; actual frozen run configs are authoritative",
+  "seeds": [
+    12345,
+    23456,
+    34567
+  ],
+  "pretrain_epochs": 1000,
+  "adapt_epochs": 100,
+  "pretrain_lr": 0.001,
+  "adapt_lr": 0.0001,
+  "configured_batch": 512,
+  "actual_batches": [
+    400,
+    300
+  ],
+  "mask_lambda": 10,
+  "noise": "Uniform(0,1)",
+  "t5": "frozen pinned T5-base",
+  "importance": "released_cross_sample",
+  "validation": "train identities in validation scenes, every 10 epochs, earliest max",
+  "registry": "evidence/run_registry.json"
+}

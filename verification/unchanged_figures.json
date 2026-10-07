@@ -1,0 +1,37 @@
+{
+  "status": "PASS",
+  "files": [
+    {
+      "path": "figures/figure1_primary_comparison.png",
+      "sha256": "a0a2523b05c02d015a71ced0e5cdad6b79541d9938df90cb35b4619851bc8295"
+    },
+    {
+      "path": "figures/figure1_primary_comparison.svg",
+      "sha256": "350240137a09c98352d4238acf4d7d946f62966bd126b48d3a0bca8a9c03b89c"
+    },
+    {
+      "path": "figures/figure2_adaptation.png",
+      "sha256": "8d009bf2b6d5a40ad50bb88286e429b90d298395fee53f737eed7f858e68d087"
+    },
+    {
+      "path": "figures/figure2_adaptation.svg",
+      "sha256": "d2164c2baed3ea031f8cdc625fc1628d564add6c423e7e2d1bb60917cb940c92"
+    },
+    {
+      "path": "figures/figure3_mask_robustness.png",
+      "sha256": "2461b5085dd3f6ea86af781fd13b6ff0f5bedcf39227240bdb3bc8671771427c"
+    },
+    {
+      "path": "figures/figure3_mask_robustness.svg",
+      "sha256": "d7b33adf9122e6db02eef58308b595b1402a00eca2fddff56eb6af26aceab862"
+    },
+    {
+      "path": "figures/figure4_uncertainty_aware.png",
+      "sha256": "b8175b76744aefba70a1e82f7aa45eb45749480c5863b1d3f237e3ae945ddae0"
+    },
+    {
+      "path": "figures/figure4_uncertainty_aware.svg",
+      "sha256": "ca9451fc786f0c5fddf784a541e5c297c59e1cc7d73d4edf11f65bccc47d51a0"
+    }
+  ]
+}

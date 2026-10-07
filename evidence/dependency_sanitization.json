@@ -1,0 +1,9 @@
+{
+  "original_sha256": "1c15ee823d4cd4572a2e36689c868e2fe2b395ee86a1d39d57b9e506c1e21309",
+  "packaged_sha256": "5b2d764fa0e58dc7857d96d101ec2fe31ff62cd48185911bcdde871f8747c2a4",
+  "changes": [
+    "numpy local build reference -> numpy==1.26.4",
+    "packaging local build reference -> packaging==26.3",
+    "pybullet local build reference -> documented conda pybullet=3.25; no fixed-data training dependency"
+  ]
+}

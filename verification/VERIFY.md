@@ -1,0 +1,9 @@
+# Independent verification
+
+Run `python verification/verify_submission.py --package .` from the extracted package (Python and NumPy). It exits nonzero on failure and never trains or changes completed run files. `--report work/audit.json` optionally writes a new audit outside frozen evidence.
+
+Coverage: all payload/checksum hashes; fixed data and original imported source hashes; archived script identities; disjoint scenes/groups/trajectories; train-only scaling; endpoints; 40/30/30 preferences and strict ranking; independent demo sampling; SHA-derived corruption; histogram-CDF reconstruction of uncertainty weights; recorded T5 parameter hash/freeze flags; lambda/noise/learning rates; 1100 updates and 430000 examples; all 100 validation snapshots per run and earliest-best selection; final-test lock hashes/timing; all five final endpoints; preference-level ties and macro scores; all canonical mean/SD/SE and paired-difference rows; registry paths; matched initializations/demos across seeds.
+
+The hash audit establishes identity, not origin by itself. Frozen-T5 checks inspect execution evidence; this audit does not execute T5 or independently prove every saved prediction came from its checkpoint. scripts/evaluate_checkpoint.py provides optional inference replay. Pattern scans detect common credential shapes and personal absolute paths in text and DOCX XML; they are not a proof that every possible secret encoding is absent.
+
+primary_original_audit.json and extensions_original_audit.json are preserved audits of the completed experiments. submission_audit.json is the new delivery audit before manifest sealing. The external archive verification sidecar records a separate audit run on a freshly extracted ZIP, CRC test and manifest comparison. The manifest and checksum list exclude recursive self-hashing as documented in README.

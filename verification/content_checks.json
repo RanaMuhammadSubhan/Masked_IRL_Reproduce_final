@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "json_files_parsed": 770,
+  "broken_markdown_links": [],
+  "docx_toc_verified": true,
+  "figures_unchanged": true,
+  "professor_pdf_unchanged": true,
+  "scan": {
+    "status": "PASS",
+    "text_streams_scanned": 1253,
+    "policy": "Pattern scan of text and DOCX XML; no secret-shaped keys or personal absolute paths; not a universal credential detector"
+  }
+}

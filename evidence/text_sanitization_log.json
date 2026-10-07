@@ -1,0 +1,44 @@
+[
+  {
+    "path": "results/primary/registry.jsonl",
+    "original_sha256": "d9dd3ff57915f665420529b340f8a74fbbaf3e2823f71b35ed6d6f784fb70926",
+    "packaged_sha256": "60ba927f04afd0a80110b8829a8fed1e1d54b48e3f5f5ae6e6922d556ee7fd39",
+    "change": "Replace machine-specific paths in copied text"
+  },
+  {
+    "path": "results/tables/primary/execution_ledger.csv",
+    "original_sha256": "b829f10e65202eb36756d61df5f1926d8730497e1c64b04b736e915af5468317",
+    "packaged_sha256": "3ae0a96f8067950ea7304d49075c296d9da931f884f606628042d20da99ab299",
+    "change": "Replace machine-specific paths in copied text"
+  },
+  {
+    "path": "results/tables/primary/experiment_registry.csv",
+    "original_sha256": "fcdfb04f35fd62fef514bea9e1a3a3c7340ccd9e7569368a4dce16fef82b95e8",
+    "packaged_sha256": "1a900ca36d5bb2ed674438b9a8e763845f14b9d6d2f2cd5904feea102fa36e50",
+    "change": "Replace machine-specific paths in copied text"
+  },
+  {
+    "path": "results/extensions/registry.jsonl",
+    "original_sha256": "b272adf20e95c7ba0b756561121bd8e748664aceeacd83845f29487a5da90d1e",
+    "packaged_sha256": "56dcf2c3d7137f50f2b30dcec25975ffa5af2ee07a28f79700e84ff564884630",
+    "change": "Replace machine-specific paths in copied text"
+  },
+  {
+    "path": "results/tables/extensions/experiment_registry.csv",
+    "original_sha256": "7d195fc2e78eafaaeb679bfd33a083618f303122917c2d7f6928a3d14e36b0dd",
+    "packaged_sha256": "fda68636f9048c765ff6f985083819499660160fd9abcc5850a720f23b002646",
+    "change": "Replace machine-specific paths in copied text"
+  },
+  {
+    "path": "evidence/failure_ledger.csv",
+    "original_sha256": "b829f10e65202eb36756d61df5f1926d8730497e1c64b04b736e915af5468317",
+    "packaged_sha256": "3ae0a96f8067950ea7304d49075c296d9da931f884f606628042d20da99ab299",
+    "change": "Replace machine-specific paths in copied text"
+  },
+  {
+    "path": "environment/conda-explicit-win-64.txt",
+    "original_sha256": "1133b9f255b953f9ccba2b2d30301bcf2ec994cfd5b90f4949dc63c2630bb75a",
+    "packaged_sha256": "cc14ae38eea417d03edb73ed154f71d587ef171c98a907e68eab5e2b2eafbbda",
+    "change": "Replace machine-specific paths in copied text"
+  }
+]

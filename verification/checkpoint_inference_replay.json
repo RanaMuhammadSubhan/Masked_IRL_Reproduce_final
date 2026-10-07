@@ -1,0 +1,8 @@
+{
+  "run_id": "train_lcrl_oracle_p0_seed12345_37e33f38",
+  "endpoint": "strict_zero_shot",
+  "win_rate": 0.627441371059573,
+  "original_win_rate": 0.627441371059573,
+  "max_abs_prediction_difference": 0.0,
+  "training_performed": false
+}

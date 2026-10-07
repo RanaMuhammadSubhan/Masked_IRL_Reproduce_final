@@ -1,0 +1,10 @@
+results/
+*.npz
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+*.pt
+*.pth
+checkpoints/

@@ -1,0 +1,15 @@
+{
+  "no_training": true,
+  "original_results_unchanged": true,
+  "retained": "All 60 frozen configs; 120 selected/adapted checkpoints; all 6000 validation and 300 final prediction NPZs; losses; source archives; dataset once",
+  "omitted": "60 redundant final_pretrain checkpoints; environment binaries and model cache; 30 duplicate raw candidate arrays; historical V2 checkpoint copies; unrelated upstream robot executables",
+  "portable_changes": [
+    "HF_HOME respects environment override",
+    "Verifier normalizes Windows separators",
+    "Copied registry/log/document paths sanitized"
+  ],
+  "counts": {
+    "primary": 39,
+    "extensions": 21
+  }
+}

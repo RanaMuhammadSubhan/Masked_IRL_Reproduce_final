@@ -1,0 +1,9 @@
+# Reproduction and delivery changes
+
+1. V2: reconstructed a controlled simulation, validated collision/endpoint/split constraints, and ran released-code baselines (one seed, historical only).
+2. V3: froze pinned T5; implemented local coordinate-wise Uniform perturbations; restored lambda 10, LR 0.001 and 1000+100 epochs; separated adaptation and strict zero-shot; retained the released cross-sample estimator.
+3. Execution: completed 39 primary/comparison learners, then 6 lambda controls and 15 exploratory uncertainty-aware learners; preserved the negative corruption and clean-candidate results.
+4. Delivery only: added this technical DOCX and portable entry points. Copied scientific arrays, figures, PDF, frozen configs and selected/adapted checkpoints unchanged. Archived executed scripts remain byte-identical. New runnable trainer adapters respect standard HF_HOME instead of forcing the original project cache; verifier adapters normalize path separators. These are packaging changes, not rerun results.
+5. Copied registries/logs/documentation replace personal absolute paths with package-relative paths. NumPy/packaging build references became exact version pins; the PyBullet build reference is documented as a conda dependency. evidence/text_sanitization_log.json and packaging_policy.json record scope. Original V2/V3 files were not edited; no training, tuning, data generation or commits occurred during delivery.
+
+Redundant final_pretrain.pt checkpoints, duplicate candidate arrays, cache/environment binaries, old ZIPs and unrelated robot executables are omitted. All 6000 validation and 300 final NPZs, 120 essential checkpoints, losses and config/source hashes remain included. Large raw prediction evidence is retained deliberately so every validation selection score can be independently recomputed.
