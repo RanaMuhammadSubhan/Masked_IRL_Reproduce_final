@@ -1,0 +1,6 @@
+endpoint,win_rate,checkpoint
+pre_adapt_heldout,0.6867176693889562,selected_pretrain.pt
+strict_zero_shot,0.6641119054826048,selected_pretrain.pt
+pretrain_seen,0.6722695247943064,selected_pretrain.pt
+post_adapt_heldout,0.7015794572150647,adapted_epoch100.pt
+post_adapt_seen,0.6894683338846302,adapted_epoch100.pt
